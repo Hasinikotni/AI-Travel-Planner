@@ -1,0 +1,6 @@
+{
+  "name": "AI Travel Planner - n8n Automation",
+  "description": "Tell us your travel requirements and get a personalized, handcrafted travel plan curated for your dream vacation powered by n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
